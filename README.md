@@ -1,7 +1,7 @@
-# React with Vite as the Frontend of the Portfolio Project 
+# Portfolio built with React, Vite & Sanity CMS
 
 - Basics of React
 - HOC (Higher Order Components)
 - Framer Motion 
-- Project Setup & Tools 
+- Basic Project Setup & Tools
 - CMS (Sanity) 
