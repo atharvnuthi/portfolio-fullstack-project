@@ -5,3 +5,5 @@
 - Framer Motion 
 - Basic Project Setup & Tools
 - CMS (Sanity) 
+
+https://portfolio-fullstack-project.netlify.app/
